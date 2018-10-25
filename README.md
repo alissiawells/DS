@@ -5,6 +5,8 @@ ML for stalkering social networks
 
 * input.py & fromfile.py scraping vk groups, the first reads domens from command line
 
+*  networking_for_introverts.py - parsing geolocated photos from vk anf instagram (may be useful in case you want to find profiles in social networks of someone you met at an event)
+
 * clean.py - preprocessing text data from vk for k-means
 
 * prepare_text.ipynb - tokenization, lemmatization, removing stop words, vectirization (tf-idf) for [BigARTM](http://bigartm.org)
